@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "deepseek-whale-memes",
+  "name": "DeepSeek娘梗图集（细分类）",
+  "version": "2.0.0",
+  "description": "收录蓝色大肥鱼网站 DeepSeek娘梗图 461 张，按 20 个聊天语义类别细分；素材版权归原作者，授权状态以来源页为准。",
+  "author": "蓝色大肥鱼社区 / 整理：AstrBot",
+  "maintainer": "AstrBot User",
+  "homepage": "https://xn--pssy23gqgbz2d718b.com/characters/deepseek/meme.html",
+  "license": "素材版权归原作者，授权状态以来源页为准；仅限个人非商业使用",
+  "tags": [
+    "deepseek",
+    "whale",
+    "蓝色大肥鱼",
+    "鲸鱼娘",
+    "meme-pack",
+    "anime",
+    "梗图",
+    "fine-grained"
+  ],
+  "icon": "previews/cover.webp",
+  "previews": [
+    "previews/cover.webp"
+  ],
+  "compat": {
+    "min_plugin_version": "4.0.0"
+  },
+  "categories": {
+    "happy": {
+      "description": "开心、庆祝、兴奋、胜利、得意。"
+    },
+    "affection": {
+      "description": "喜欢、比心、贴贴、撒娇、表白。"
+    },
+    "comfort": {
+      "description": "摸头、抱抱、安慰、治愈、鼓励。"
+    },
+    "shy": {
+      "description": "害羞、脸红、捂脸、尴尬。"
+    },
+    "sad": {
+      "description": "难过、委屈、哭泣、道歉、崩溃。"
+    },
+    "angry": {
+      "description": "生气、拒绝、嫌弃、吵架、攻击。"
+    },
+    "teasing": {
+      "description": "吐槽、玩梗、挑衅、整活、调侃。"
+    },
+    "fool": {
+      "description": "犯傻、自嘲、搞怪、呆萌。"
+    },
+    "confused": {
+      "description": "困惑、问号、不懂、思考、懵圈。"
+    },
+    "surprised": {
+      "description": "震惊、惊讶、意外、惊恐。"
+    },
+    "tired": {
+      "description": "疲惫、摆烂、躺平、摸鱼。"
+    },
+    "sleep": {
+      "description": "困、睡觉、熬夜、午睡、晚安。"
+    },
+    "eating": {
+      "description": "吃饭、干饭、美食、馋、投喂。"
+    },
+    "work": {
+      "description": "工作、学习、加班、文档、任务。"
+    },
+    "code": {
+      "description": "代码、bug、部署、模型、服务器。"
+    },
+    "game": {
+      "description": "游戏、BOSS、战场、电竞。"
+    },
+    "money": {
+      "description": "token、额度、免费、穷、打钱。"
+    },
+    "reply": {
+      "description": "普通回应、展示、没有明显强情绪。"
+    },
+    "approval": {
+      "description": "点赞、同意、确认、支持。"
+    },
+    "meow": {
+      "description": "猫耳、猫娘、喵。"
+    }
+  }
+}
